@@ -1,11 +1,13 @@
 import Clock from "./Clock"
 import ToDoList from "./ToDoList"
+import Timer from "./timer"
 
 function App() {
   return (
     <>
-    <ToDoList/>
-    <Clock/>
+    
+    
+    <Timer/>
     </>
   )
 }
