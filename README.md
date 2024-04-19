@@ -1,4 +1,4 @@
-# Producitcyt App
+# Productivity App
 
 Producitcyt App is a React project awhich has three main features: a To-Do List, a Stopwatch, and a Clock.
 
