@@ -19,7 +19,7 @@ function Clock(){
     }
     
     return(<div className=" flex-1 clock-container">
-            <div className=" text-9xl clock m-20">
+            <div className=" text-7xl clock m-20">
                 <span>{formatTime()}</span>
             </div>
         </div>);
