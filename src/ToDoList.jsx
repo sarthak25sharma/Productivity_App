@@ -34,7 +34,7 @@ function ToDoList(){
         }
     }
     return(<>
-        <div className=" flex-1 p-1 font-mono fixed top-0 right-0 h-screen w-1/2  to-do-list">
+        <div className="flex-1 p-1 font-mono fixed top-0 right-0 h-screen w-1/2  to-do-list" style={{ overflow: 'auto' }}>
             <h1 className="text-9xl  to-do-h1">TO-DO-LIST</h1>
             <div className="flex items-center justify-center p-12"> 
                 <input className=" text-4xl space-x-2.5 "type="text" 
